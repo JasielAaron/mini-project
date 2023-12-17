@@ -1,0 +1,52 @@
+*{ font-family: 'Times New Roman', Times, serif;}
+
+header{ text-align: end;
+background-color: azure;
+color: aliceblue;
+margin: auto;
+font-size: 25px;
+height: 50px;
+padding: 5px;}
+
+#section-1{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    padding: 5px;
+    background-color: whitesmoke
+    
+}
+.text-center{text-align: center;}
+figure figcaption{text-align: center;}
+
+#contactinfo{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    padding: 5px;
+    background-color: azure;
+
+}
+.text-center{text-align: center;}
+footer {text-align: center;}
+button{ text-align: center;
+    background-color: rgb(62, 58, 58);
+    color: seashell;
+    height: 30px;
+    width: 105px ;}
+    
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+
+
+
+
+
+
+    
